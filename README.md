@@ -6,7 +6,7 @@ This is HW-5 in the course Deep Learning for Sound Processing.
 In this project RawNet model was implemented for Anti Spoofing task.
 
 ## Project structure
-- **/hw_ss** - project scripts
+- **/hw_as** - project scripts
 - _install_dependencies.sh_ - script for dependencies installation
 - _requirements.txt_ - Python requirements list
 - _train.py_ - script to run train
