@@ -31,7 +31,7 @@ _Logical Access_ dataset is automatically downloaded when the associated dataset
 ## Reproduce results
 To run train with _Logical Access train_ dataset:
 ```shell
-python -m train -c hw_asr/configs/train_config.json
+python -m train -c hw_as/configs/train_config.json
 ```
 
 To run test inference with _Logical Access eval_ dataset:
