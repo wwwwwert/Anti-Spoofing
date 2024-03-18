@@ -1,7 +1,6 @@
 # AS project 
 
 ## Project description
-This is HW-5 in the course Deep Learning for Sound Processing.
 
 In this project RawNet2 ([paper](https://arxiv.org/pdf/2011.01108.pdf)) model was implemented for Anti Spoofing task.
 
